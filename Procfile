@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT token_launcher.wsgi:application
